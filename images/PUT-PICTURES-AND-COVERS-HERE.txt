@@ -1,0 +1,2 @@
+Dump ALL pictures and ALL covers here together (name.jpg).
+Example: AOT.jpg and AOTcover.jpg
